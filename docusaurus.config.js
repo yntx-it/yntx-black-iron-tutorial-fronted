@@ -63,18 +63,25 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'java',
+            docId: 'java/java',
             position: 'left',
             label: 'Java',
           },
+          {
+            type: 'doc',
+            docId: 'interview/interview',
+            position: 'left',
+            label: '面试',
+          },
           { to: '/blog', label: '博客', position: 'right' },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/yntx-it',
             label: 'GitHub',
             position: 'right',
           },
         ],
       },
+      // 底部链接
       footer: {
         style: 'dark',
         links: [
@@ -92,15 +99,15 @@ const config = {
             items: [
               {
                 label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                href: 'https://stackoverflow.com/questions/tagged/yntx-it',
               },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discordapp.com/invite/yntx-it',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/yntx-it',
               },
             ],
           },
@@ -113,12 +120,12 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/yntx-it',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} 与你同行技术, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
