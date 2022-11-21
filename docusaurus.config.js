@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '与你同行-黑铁教程',
-  tagline: '学习技术真的很酷',
+  tagline: '黑铁程序员成长的知识宝典库',
   url: 'https://yntx-it.github.io',
   baseUrl: '/yntx-black-iron-tutorial-fronted/',
 
