@@ -133,11 +133,11 @@ const config = {
               {
                 label: '与你同行GitHub',
                 href: 'https://github.com/yntx-it',
-              }
+              },
               {
                 label: '与你同行Gitee',
                 href: 'https://gitee.com/yntx-org',
-              }
+              },
             ],
           },
         ],
