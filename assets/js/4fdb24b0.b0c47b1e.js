@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyntx_black_iron_tutorial_fronted=self.webpackChunkyntx_black_iron_tutorial_fronted||[]).push([[9718],{631:l=>{l.exports=JSON.parse('{"label":"world","permalink":"/blog/tags/world","allTagsPath":"/blog/tags","count":1}')}}]);

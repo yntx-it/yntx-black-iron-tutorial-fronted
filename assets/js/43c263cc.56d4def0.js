@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyntx_black_iron_tutorial_fronted=self.webpackChunkyntx_black_iron_tutorial_fronted||[]).push([[4017],{7737:t=>{t.exports=JSON.parse('{"permalink":"/blog/tags/\u7b2c\u4e00\u6b21","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

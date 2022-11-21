@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>与你同行-黑铁教程 Blog</title>
+        <link>http://47.113.86.188:12321/blog</link>
+        <description>与你同行-黑铁教程 Blog</description>
+        <lastBuildDate>Sun, 20 Nov 2022 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>zh-Hans</language>
+        <item>
+            <title><![CDATA[第一篇博客]]></title>
+            <link>http://47.113.86.188:12321/blog/first-blog-post</link>
+            <guid>first-blog-post</guid>
+            <pubDate>Sun, 20 Nov 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[开始我们都在泥泞中挣扎，再见到时都在云端发芽。]]></description>
+            <content:encoded><![CDATA[<p>开始我们都在泥泞中挣扎，再见到时都在云端发芽。</p>]]></content:encoded>
+            <category>第一次</category>
+            <category>成长</category>
+        </item>
+        <item>
+            <title><![CDATA[Hello World]]></title>
+            <link>http://47.113.86.188:12321/blog/welcome</link>
+            <guid>welcome</guid>
+            <pubDate>Sun, 20 Nov 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[这里是黑铁教程，虽然现在是黑铁，相信努力的我们，一定会成为自己的王者！]]></description>
+            <content:encoded><![CDATA[<p>这里是黑铁教程，虽然现在是黑铁，相信努力的我们，一定会成为自己的王者！</p><p><strong>If I think I can, I can !</strong></p><p><img loading="lazy" alt="Docusaurus Plushie" src="/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>]]></content:encoded>
+            <category>与你同行</category>
+            <category>hello</category>
+            <category>world</category>
+        </item>
+    </channel>
+</rss>
