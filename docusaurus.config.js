@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 const config = {
   title: '与你同行-黑铁教程',
   tagline: '学习技术真的很酷',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'http://47.113.86.188:12321',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -36,13 +36,15 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/yntx-it/yntx-black-iron-tutorial-fronted/tree/main/shared/',
         },
         blog: {
+          blogSidebarTitle: '最近发布',
+          blogSidebarCount: 'ALL',
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/yntx-it/yntx-black-iron-tutorial-fronted/tree/main/shared/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -67,12 +69,13 @@ const config = {
             position: 'left',
             label: 'Java',
           },
-          {
-            type: 'doc',
-            docId: 'interview/interview',
-            position: 'left',
-            label: '面试',
-          },
+          // {
+          //   type: 'doc',
+          //   docId: 'interview/interview-algorithm',
+          //   position: 'left',
+          //   label: '面试',
+          // },
+          { to: 'docs/category/常见面试题', label: '面试宝典', position: 'left' },
           { to: '/blog', label: '博客', position: 'right' },
           {
             href: 'https://github.com/yntx-it',
@@ -86,7 +89,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: '文档',
             items: [
               {
                 label: 'Java',
@@ -95,7 +98,7 @@ const config = {
             ],
           },
           {
-            title: 'Community',
+            title: '社区',
             items: [
               {
                 label: 'Stack Overflow',
@@ -112,7 +115,7 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: '更多',
             items: [
               {
                 label: 'Blog',
