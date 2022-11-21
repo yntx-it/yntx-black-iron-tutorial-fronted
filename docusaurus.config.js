@@ -8,8 +8,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 const config = {
   title: '与你同行-黑铁教程',
   tagline: '学习技术真的很酷',
-  url: 'http://47.113.86.188:12321',
-  baseUrl: '/',
+  url: 'https://yntx-it.github.io',
+  baseUrl: '/yntx-black-iron-tutorial-fronted/',
+
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -18,6 +19,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'yntx-it', // Usually your GitHub org/user name.
   projectName: 'yntx-black-iron-tutorial-fronted', // Usually your repo name.
+  trailingSlash: false,
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
