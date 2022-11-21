@@ -36,7 +36,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: 'https://github.com/yntx-it/yntx-black-iron-tutorial-fronted/tree/main/shared/',
+          editUrl: 'https://github.com/yntx-it/yntx-black-iron-tutorial-fronted/tree/master/shared/',
         },
         blog: {
           blogSidebarTitle: '最近发布',
@@ -44,7 +44,7 @@ const config = {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: 'https://github.com/yntx-it/yntx-black-iron-tutorial-fronted/tree/main/shared/',
+          editUrl: 'https://github.com/yntx-it/yntx-black-iron-tutorial-fronted/tree/master/shared/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
