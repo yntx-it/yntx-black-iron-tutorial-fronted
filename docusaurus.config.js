@@ -133,19 +133,11 @@ const config = {
               {
                 label: '与你同行GitHub',
                 href: 'https://github.com/yntx-it',
-              },
+              }
               {
-                label: '李子捌GitHub',
-                href: 'https://github.com/LiZiBa',
-              },
-              {
-                label: '李子捌CSDN',
-                href: 'https://blog.csdn.net/qq_41125219',
-              },
-              {
-                label: '借力好风GitHub',
-                href: 'https://github.com/johnniewind',
-              },
+                label: '与你同行Gitee',
+                href: 'https://gitee.com/yntx-org',
+              }
             ],
           },
         ],
