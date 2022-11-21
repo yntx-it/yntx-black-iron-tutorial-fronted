@@ -82,7 +82,7 @@ const config = {
             position: 'right', // 展示位置，左边
           },
           {
-            href: 'https://github.com/yntx-it', // href外链，GitHub仓库地址
+            href: 'https://github.com/yntx-it/yntx-black-iron-tutorial-fronted', // href外链，GitHub仓库地址
             label: 'GitHub', // GitHub，默认使用内置图标展示，不是文字
             position: 'right', // 展示位置，右边
           },
