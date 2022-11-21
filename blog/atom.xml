@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://47.113.86.188:12321/blog</id>
+    <id>https://yntx-it.github.io/yntx-black-iron-tutorial-fronted/blog</id>
     <title>与你同行-黑铁教程 Blog</title>
     <updated>2022-11-20T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://47.113.86.188:12321/blog"/>
+    <link rel="alternate" href="https://yntx-it.github.io/yntx-black-iron-tutorial-fronted/blog"/>
     <subtitle>与你同行-黑铁教程 Blog</subtitle>
-    <icon>http://47.113.86.188:12321/img/favicon.ico</icon>
+    <icon>https://yntx-it.github.io/yntx-black-iron-tutorial-fronted/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[第一篇博客]]></title>
         <id>first-blog-post</id>
-        <link href="http://47.113.86.188:12321/blog/first-blog-post"/>
+        <link href="https://yntx-it.github.io/yntx-black-iron-tutorial-fronted/blog/first-blog-post"/>
         <updated>2022-11-20T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[开始我们都在泥泞中挣扎，再见到时都在云端发芽。]]></summary>
         <content type="html"><![CDATA[<p>开始我们都在泥泞中挣扎，再见到时都在云端发芽。</p>]]></content>
@@ -28,10 +28,10 @@
     <entry>
         <title type="html"><![CDATA[Hello World]]></title>
         <id>welcome</id>
-        <link href="http://47.113.86.188:12321/blog/welcome"/>
+        <link href="https://yntx-it.github.io/yntx-black-iron-tutorial-fronted/blog/welcome"/>
         <updated>2022-11-20T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[这里是黑铁教程，虽然现在是黑铁，相信努力的我们，一定会成为自己的王者！]]></summary>
-        <content type="html"><![CDATA[<p>这里是黑铁教程，虽然现在是黑铁，相信努力的我们，一定会成为自己的王者！</p><p><strong>If I think I can, I can !</strong></p><p><img loading="lazy" alt="Docusaurus Plushie" src="/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>]]></content>
+        <content type="html"><![CDATA[<p>这里是黑铁教程，虽然现在是黑铁，相信努力的我们，一定会成为自己的王者！</p><p><strong>If I think I can, I can !</strong></p><p><img loading="lazy" alt="Docusaurus Plushie" src="/yntx-black-iron-tutorial-fronted/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>]]></content>
         <author>
             <name>李子捌</name>
             <uri>https://blog.csdn.net/qq_41125219</uri>

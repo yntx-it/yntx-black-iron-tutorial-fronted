@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkyntx_black_iron_tutorial_fronted=self.webpackChunkyntx_black_iron_tutorial_fronted||[]).push([[4468],{8142:t=>{t.exports=JSON.parse('{"permalink":"/blog/tags/world","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

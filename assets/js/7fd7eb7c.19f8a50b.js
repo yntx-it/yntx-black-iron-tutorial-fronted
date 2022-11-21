@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyntx_black_iron_tutorial_fronted=self.webpackChunkyntx_black_iron_tutorial_fronted||[]).push([[9119],{4236:t=>{t.exports=JSON.parse('{"label":"\u7b2c\u4e00\u6b21","permalink":"/yntx-black-iron-tutorial-fronted/blog/tags/\u7b2c\u4e00\u6b21","allTagsPath":"/yntx-black-iron-tutorial-fronted/blog/tags","count":1}')}}]);

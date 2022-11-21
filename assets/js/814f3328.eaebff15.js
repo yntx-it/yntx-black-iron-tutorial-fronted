@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkyntx_black_iron_tutorial_fronted=self.webpackChunkyntx_black_iron_tutorial_fronted||[]).push([[2535],{5641:t=>{t.exports=JSON.parse('{"title":"\u6700\u8fd1\u53d1\u5e03","items":[{"title":"\u7b2c\u4e00\u7bc7\u535a\u5ba2","permalink":"/blog/first-blog-post"},{"title":"Hello World","permalink":"/blog/welcome"}]}')}}]);
