@@ -59,43 +59,50 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: '与你同行-黑铁教程',
+        title: '与你同行-黑铁教程', // 标题名称
         logo: {
-          alt: '黑铁教程 Logo',
-          src: 'img/logo.svg',
+          alt: '黑铁教程 Logo', // 图片描述
+          src: 'img/logo.svg', // Logo图片
         },
         items: [
           {
-            type: 'doc',
-            docId: 'java/java',
-            position: 'left',
-            label: 'Java',
+            type: 'doc', // 导航栏类型
+            docId: 'java/java', // 文档路径
+            position: 'left', // 展示位置，左边
+            label: 'Java教程', // 导航栏名称
           },
-          // {
-          //   type: 'doc',
-          //   docId: 'interview/interview-algorithm',
-          //   position: 'left',
-          //   label: '面试',
-          // },
-          { to: 'docs/category/常见面试题', label: '面试宝典', position: 'left' },
-          { to: '/blog', label: '博客', position: 'right' },
           {
-            href: 'https://github.com/yntx-it',
-            label: 'GitHub',
-            position: 'right',
+            to: 'docs/interview', // 导航栏跳转地址
+            label: '面试宝典', // 导航栏名称
+            position: 'right', // 展示位置，左边
+          },
+          {
+            to: '/blog', // 导航栏跳转地址
+            label: '博客', // 导航栏名称
+            position: 'right', // 展示位置，左边
+          },
+          {
+            href: 'https://github.com/yntx-it', // href外链，GitHub仓库地址
+            label: 'GitHub', // GitHub，默认使用内置图标展示，不是文字
+            position: 'right', // 展示位置，右边
           },
         ],
       },
       // 底部链接
       footer: {
-        style: 'dark',
+        style: 'dark', // 样式，深色
         links: [
+          // 链接
           {
-            title: '文档',
+            title: '文档', // 分类标题
             items: [
               {
-                label: 'Java',
-                to: '/docs/java',
+                label: 'Java教程', // 分类下的标签名
+                to: '/docs/java', // 跳转地址
+              },
+              {
+                label: '面试宝典', // 分类下的标签名
+                to: '/docs/interview', // 跳转地址
               },
             ],
           },
@@ -104,7 +111,7 @@ const config = {
             items: [
               {
                 label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/yntx-it',
+                href: 'https://stackoverflow.com/questions/tagged/yntx-it', // href外链
               },
               {
                 label: 'Discord',
@@ -120,16 +127,29 @@ const config = {
             title: '更多',
             items: [
               {
-                label: 'Blog',
+                label: '本站博客',
                 to: '/blog',
               },
               {
-                label: 'GitHub',
+                label: '与你同行GitHub',
                 href: 'https://github.com/yntx-it',
+              },
+              {
+                label: '李子捌GitHub',
+                href: 'https://github.com/LiZiBa',
+              },
+              {
+                label: '李子捌CSDN',
+                href: 'https://blog.csdn.net/qq_41125219',
+              },
+              {
+                label: '借力好风GitHub',
+                href: 'https://github.com/johnniewind',
               },
             ],
           },
         ],
+        // 底部版权声明
         copyright: `Copyright © ${new Date().getFullYear()} 与你同行技术, Inc. Built with Docusaurus.`,
       },
       prism: {

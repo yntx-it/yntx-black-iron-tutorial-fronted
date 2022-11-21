@@ -1,6 +1,6 @@
 ---
 slug: welcome
-title: Hello World
+title: 欢迎
 authors: [LiZiBa, Johnnie Wind]
 tags: [与你同行, hello, world]
 ---
