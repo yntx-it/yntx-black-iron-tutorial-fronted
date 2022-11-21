@@ -4,22 +4,32 @@
         <title>与你同行-黑铁教程 Blog</title>
         <link>https://yntx-it.github.io/yntx-black-iron-tutorial-fronted/blog</link>
         <description>与你同行-黑铁教程 Blog</description>
-        <lastBuildDate>Sun, 20 Nov 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
+        <item>
+            <title><![CDATA[你好，世界]]></title>
+            <link>https://yntx-it.github.io/yntx-black-iron-tutorial-fronted/blog/hello</link>
+            <guid>hello</guid>
+            <pubDate>Mon, 21 Nov 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hello World!]]></description>
+            <content:encoded><![CDATA[<p>Hello World!</p>]]></content:encoded>
+            <category>你好</category>
+            <category>世界</category>
+        </item>
         <item>
             <title><![CDATA[第一篇博客]]></title>
             <link>https://yntx-it.github.io/yntx-black-iron-tutorial-fronted/blog/first-blog-post</link>
             <guid>first-blog-post</guid>
             <pubDate>Sun, 20 Nov 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[开始我们都在泥泞中挣扎，再见到时都在云端发芽。]]></description>
-            <content:encoded><![CDATA[<p>开始我们都在泥泞中挣扎，再见到时都在云端发芽。</p>]]></content:encoded>
+            <description><![CDATA[开始我们在泥泞中挣扎，再见到时都在云端发芽。]]></description>
+            <content:encoded><![CDATA[<p>开始我们在泥泞中挣扎，再见到时都在云端发芽。</p>]]></content:encoded>
             <category>第一次</category>
             <category>成长</category>
         </item>
         <item>
-            <title><![CDATA[Hello World]]></title>
+            <title><![CDATA[欢迎]]></title>
             <link>https://yntx-it.github.io/yntx-black-iron-tutorial-fronted/blog/welcome</link>
             <guid>welcome</guid>
             <pubDate>Sun, 20 Nov 2022 00:00:00 GMT</pubDate>

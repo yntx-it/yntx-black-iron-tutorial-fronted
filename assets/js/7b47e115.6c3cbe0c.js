@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyntx_black_iron_tutorial_fronted=self.webpackChunkyntx_black_iron_tutorial_fronted||[]).push([[736],{5676:t=>{t.exports=JSON.parse('{"permalink":"/yntx-black-iron-tutorial-fronted/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
